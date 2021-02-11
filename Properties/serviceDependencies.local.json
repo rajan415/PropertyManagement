@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql.local",
+      "connectionId": "PropertyManagementDatabase"
+    },
+    "mssql2": {
+      "type": "mssql.local",
+      "connectionId": "PropertyManagement_Database"
+    }
+  }
+}
